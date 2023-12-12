@@ -1,0 +1,34 @@
+Name:    Austin Riggs
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Two
+
+Shape:     Circle
+Dimension: Two-Dimensional
+Area:      103.9
+
+Shape:     Square
+Dimension: Two-Dimensional
+Area:      6.3
+
+Shape:     Triangle
+Dimension: Two-Dimensional
+Area:      41.1
+
+Shape:     Sphere
+Dimension: Three-Dimensional
+Area:      415.5
+Volume:    796.3
+
+Shape:     Cube
+Dimension: Three-Dimensional
+Area:      37.5
+Volume:    15.6
+
+Shape:     Tetrahedron
+Dimension: Three-Dimensional
+Area:      10.8
+Volume:    1.8
+
+
+Process finished with exit code 0
+
