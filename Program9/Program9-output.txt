@@ -1,0 +1,12 @@
+SimpleArray loaded successfully.
+
+Single Threaded Duration (milliseconds): 1167
+Single Threaded Array Sum: 157509794
+
+Multithreaded Duration (milliseconds): 2610
+Multithreaded Array Sum: 157499387
+
+The multithreaded operation took 124% longer than the single threaded one.
+
+
+Process finished with exit code 0
