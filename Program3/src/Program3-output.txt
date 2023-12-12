@@ -1,0 +1,30 @@
+Please enter a string or enter the word "no" to exit the program: 
+Hello hi hi hola HELLO hola hI HI HOla hELLO
+
+Duplicates Found:
+
+hi                 4
+hello              3
+hola               3
+ 
+Please enter a string or enter the word "no" to exit the program: 
+There are not duplicates in this string
+
+Duplicates Found:
+
+No duplicate words found.
+ 
+Please enter a string or enter the word "no" to exit the program: 
+123 123 321 ### ### !@# !@# 3.45 3.45
+
+Duplicates Found:
+
+123                2
+###                2
+!@#                2
+3.45               2
+ 
+Please enter a string or enter the word "no" to exit the program: 
+nO
+
+Process finished with exit code 0
