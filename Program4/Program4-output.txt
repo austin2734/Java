@@ -1,0 +1,41 @@
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+1903
+The World series winner in 1903 were the Boston Americans
+The Boston Americans have won the World Series 1 time in history.
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+1924
+The World series winner in 1924 were the Washington Senators
+The Washington Senators have won the World Series 1 time in history.
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+1994
+No World Series was played in 1994.
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+2009
+The World series winner in 2009 were the New York Yankees
+The New York Yankees have won the World Series 27 times in history.
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+2022
+The World series winner in 2022 were the Houston Astros
+The Houston Astros have won the World Series 2 times in history.
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+random text
+Nothing was found. Please enter a number between 1903 to 2022
+or enter "0" to exit the program.
+
+Please enter a number between 1903 to 2022 to find
+the World Series winner for that year or enter "0" to exit program 
+0
+
+Process finished with exit code 0
