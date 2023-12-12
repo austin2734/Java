@@ -1,0 +1,62 @@
+Invoices sorted by part description:
+
+Part #: 83  Description: Electric Sander  Quantity: 7     Price: $57.98
+Part #: 77  Description: Hammer           Quantity: 76    Price: $11.99
+Part #: 56  Description: Jig Saw          Quantity: 21    Price: $11.00
+Part #: 39  Description: Lawn Mower       Quantity: 3     Price: $79.50
+Part #: 24  Description: Power Saw        Quantity: 18    Price: $99.99
+Part #: 68  Description: Screwdriver      Quantity: 106   Price:  $6.99
+Part #: 7   Description: Sledge Hammer    Quantity: 11    Price: $21.50
+Part #: 3   Description: Wrench           Quantity: 34    Price:  $7.50
+
+
+Invoices sorted by price per item:
+
+Part #: 68  Description: Screwdriver      Quantity: 106   Price:  $6.99
+Part #: 3   Description: Wrench           Quantity: 34    Price:  $7.50
+Part #: 56  Description: Jig Saw          Quantity: 21    Price: $11.00
+Part #: 77  Description: Hammer           Quantity: 76    Price: $11.99
+Part #: 7   Description: Sledge Hammer    Quantity: 11    Price: $21.50
+Part #: 83  Description: Electric Sander  Quantity: 7     Price: $57.98
+Part #: 39  Description: Lawn Mower       Quantity: 3     Price: $79.50
+Part #: 24  Description: Power Saw        Quantity: 18    Price: $99.99
+
+
+Part quantities and part descriptions sorted by quantity amounts:
+
+Quantity: 3     Description: Lawn Mower
+Quantity: 7     Description: Electric Sander
+Quantity: 11    Description: Sledge Hammer
+Quantity: 18    Description: Power Saw
+Quantity: 21    Description: Jig Saw
+Quantity: 34    Description: Wrench
+Quantity: 76    Description: Hammer
+Quantity: 106   Description: Screwdriver
+
+
+Invoice total and part description sorted by total value:
+
+Invoice Total: $231.00    Description: Jig Saw
+Invoice Total: $236.50    Description: Sledge Hammer
+Invoice Total: $238.50    Description: Lawn Mower
+Invoice Total: $255.00    Description: Wrench
+Invoice Total: $405.86    Description: Electric Sander
+Invoice Total: $740.94    Description: Screwdriver
+Invoice Total: $911.24    Description: Hammer
+Invoice Total: $1799.82   Description: Power Saw
+
+
+Invoice total and part description of invoices totaling between
+two hundred to five hundred dollars and sorted by total value:
+
+Invoice Total: $231.00    Description: Jig Saw
+Invoice Total: $236.50    Description: Sledge Hammer
+Invoice Total: $238.50    Description: Lawn Mower
+Invoice Total: $255.00    Description: Wrench
+Invoice Total: $405.86    Description: Electric Sander
+
+
+Invoices that contain the word "Saw" in their part description:
+
+Part #: 24  Description: Power Saw        Quantity: 18    Price: $99.99
+Part #: 56  Description: Jig Saw          Quantity: 21    Price: $11.00
