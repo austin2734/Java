@@ -1,0 +1,36 @@
+C:\Java\jdk-1.8\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.2\lib\idea_rt.jar=17946:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Java\jdk-1.8\jre\lib\charsets.jar;C:\Java\jdk-1.8\jre\lib\deploy.jar;C:\Java\jdk-1.8\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk-1.8\jre\lib\ext\cldrdata.jar;C:\Java\jdk-1.8\jre\lib\ext\dnsns.jar;C:\Java\jdk-1.8\jre\lib\ext\jaccess.jar;C:\Java\jdk-1.8\jre\lib\ext\jfxrt.jar;C:\Java\jdk-1.8\jre\lib\ext\localedata.jar;C:\Java\jdk-1.8\jre\lib\ext\nashorn.jar;C:\Java\jdk-1.8\jre\lib\ext\sunec.jar;C:\Java\jdk-1.8\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk-1.8\jre\lib\ext\sunmscapi.jar;C:\Java\jdk-1.8\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk-1.8\jre\lib\ext\zipfs.jar;C:\Java\jdk-1.8\jre\lib\javaws.jar;C:\Java\jdk-1.8\jre\lib\jce.jar;C:\Java\jdk-1.8\jre\lib\jfr.jar;C:\Java\jdk-1.8\jre\lib\jfxswt.jar;C:\Java\jdk-1.8\jre\lib\jsse.jar;C:\Java\jdk-1.8\jre\lib\management-agent.jar;C:\Java\jdk-1.8\jre\lib\plugin.jar;C:\Java\jdk-1.8\jre\lib\resources.jar;C:\Java\jdk-1.8\jre\lib\rt.jar;C:\Users\Kira\IdeaProjects\Program1\out\production\Program1 Program1
+
+Name:    Austin Riggs
+Course:  ITSE 2317 Intermediate Java Programming
+Program: One
+
+
+Employees processed polymorphically:
+
+salaried employee: John Smith
+social security number: 111-11-1111
+weekly salary: $800.00
+earned $800.00
+
+hourly employee: Karen Price
+social security number: 222-22-2222
+hourly wage: $16.75; hours worked: 40.00
+earned $670.00
+
+commission employee: Sue Jones
+social security number: 333-33-3333
+gross sales: $10,000.00; commission rate: 0.06
+earned $600.00
+
+base-salaried commission employee: Bob Lewis
+social security number: 444-44-4444
+gross sales: $5,000.00; commission rate: 0.04; base salary: $300.00
+earned $500.00
+
+piece worker employee: Rick Bridges
+social security number: 555-55-5555
+wage: $2.25; pieces produced: 400
+earned $900.00
+
+
+Process finished with exit code 0
